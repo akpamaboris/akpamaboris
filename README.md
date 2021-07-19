@@ -73,8 +73,8 @@
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h2>
         <p align="center">
-            <a href="https://github.com/akpamaboris/chat-frontend-Mern">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=akpamaboris&repo=chat-app-boris&theme=dark" /></a>
+            <a href="https://github.com/akpamaboris/chat-app-boris">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=akpamaboris&repo=chat-app-boris&theme=dark"/></a>
     </div>
     
     
