@@ -18,6 +18,30 @@
         </div>
     </div>      
     
+    
+ <div>
+        <h2><img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
+            What I'm up to</h2>
+        <ul>
+            <li> 👨🏻‍💻 I'm currently working on FullStack Python with React ✍🏻</li>
+            <li> 💬 Ask me about React <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
+                    width="16" />, Javascript <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
+                    width="16" /></li>
+            <li>📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+                <a href="mailto:akpamaboris@gmail.com" target="_blank">akpamaboris@gmail.com</a></li>
+        </ul>
+    </div>
+    
+    
+    
+    
+    
+    
+    
  <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
@@ -44,7 +68,14 @@
     </div>
     
     
-    
+  <div>
+        <h2><img align="center" width="35"
+                src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
+            Repositories</h2>
+        <p align="center">
+            <a href="https://github.com/akpamaboris/chat-frontend-Mern">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=akpamaboris&repo=chat-frontend-Mern&theme=dark" /></a>
+    </div>
     
     
  <div>
@@ -58,7 +89,7 @@
             </summary>
             <br />
             <p align="center">
-                <img height="160" alt="Aromal's Github Stats"
+                <img height="160" alt="Akpama Boris Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=akpamaboris&show_icons=true&hide_border=true&theme=dark&count_private=true" />
                 <img alt="Aromal's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=akpamaboris&hide=assembly&layout=compact&theme=dark" />
