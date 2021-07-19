@@ -74,7 +74,7 @@
             Repositories</h2>
         <p align="center">
             <a href="https://github.com/akpamaboris/chat-frontend-Mern">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=akpamaboris&repo=chat-frontend-Mern&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=akpamaboris&repo=chat-app-boris&theme=dark" /></a>
     </div>
     
     
