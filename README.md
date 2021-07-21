@@ -77,9 +77,7 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akpamaboris&repo=chat-app-boris&theme=dark" /></a>
            <a href="https://github.com/akpamaboris/Flexbox-Everything">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akpamaboris&repo=Flexbox-Everything&theme=dark" /></a>
-          
-          
-    </div>
+           </div>
     
     
  <div>
