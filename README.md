@@ -96,5 +96,6 @@
                 <img alt="Aromal's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=akpamaboris&hide=assembly&layout=compact&theme=dark" />
             </p>
+          <img src="https://komarev.com/ghpvc/?username=akpamaboris&color=blueviolet&style=flat-square">
         </details>
     </div>
