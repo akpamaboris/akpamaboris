@@ -1,5 +1,5 @@
   <div align="center">
-        <h1>Hey, I am Boris <img
+        <h1>Hey, I am Zeliwipin <img
                 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
         <img alt="Developer Pic"
             src="https://i0.wp.com/img.pngio.com/smiling-emoji-png-transparent-background-image-free-png-templates-smile-emoji-png-1000_824.png" width="350"/>
